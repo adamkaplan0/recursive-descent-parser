@@ -69,3 +69,4 @@ My calculator works for all decimals up to 6 decimal places (because I decided m
 * `scanner.c` -- Actual scanner file.
 * `main.c` -- Main executable where everything comes together.
 * `test.txt` -- Testing file for my grammar with some random expressions, feel free to modify/use your own.
+* `Makefile`
